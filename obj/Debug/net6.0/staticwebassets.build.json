@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gdF78SfXEQfdbLIm6eovzNBLGZDfNBuZQW6eIT0A8IY=",
+  "Source": "demo-appservices",
+  "BasePath": "_content/demo-appservices",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
